@@ -48,6 +48,7 @@
 		overflow: auto;
 		padding: 16px;
 		height: 100%;
+		min-height: 100vh;
 		box-sizing: border-box;
 		padding-bottom: 100px;
 	}
